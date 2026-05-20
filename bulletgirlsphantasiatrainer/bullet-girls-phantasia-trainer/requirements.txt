@@ -1,0 +1,7 @@
+# Dependencies for Bullet Girls Phantasia Trainer
+# This project uses .NET 8.0 SDK
+# No external NuGet packages required beyond the standard .NET libraries.
+# To run tests, install xunit:
+# dotnet add package xunit
+# dotnet add package xunit.runner.visualstudio
+# dotnet add package Microsoft.NET.Test.Sdk
